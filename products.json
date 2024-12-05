@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Marble Mania (Oval)",
+        "price": 200,
+        "image": "img/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Butterscotch Junior",
+        "price": 250,
+        "image": "img/2.png"
+    },
+    {
+        "id": 3,
+        "name":"Choco Fantasy Eggless",
+        "price": 290,
+        "image": "img/3.png"
+    },
+    {
+        "id": 4,
+        "name":"Choco Floral (Eggless)",
+        "price": 200,
+        "image": "img/4.png"
+    },
+    {
+        "id": 5,
+        "name":"Chocolate Round Eggless",
+        "price": 300,
+        "image": "img/5.png"
+    },
+    {
+        "id": 6,
+        "name":"Rich Dutch Chocolate",
+        "price": 200,
+        "image": "img/6.png"
+    },
+    {
+        "id": 7,
+        "name":"Choco Espresso",
+        "price": 200,
+        "image": "img/7.png"
+    },
+    {
+        "id": 8,
+        "name":"Red Velvet",
+        "price": 200,
+        "image": "img/8.png"
+    }
+
+]
